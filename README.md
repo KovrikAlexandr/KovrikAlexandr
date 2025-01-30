@@ -8,7 +8,7 @@
 
 ## What's about me?
 - 🎓 Saint-P. ITMO University student
-- 💻 Want to <language-name> backend developer
+- 💻 Want to become senior backend developer
 
 
 ## What's about my skills?
